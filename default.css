@@ -5,10 +5,6 @@
 }
 
 .btn{
-  clear:left;
-}
-
-.btn{
   -webkit-appearance: none;
   -webkit-border-radius: 5;
   margin: 5px;
@@ -25,4 +21,21 @@
 
 .btn:active{
   color: white;
+}
+
+
+
+thead th, tfoot th{
+  background-color: white;
+}
+
+thead td{
+  color:white;
+  background-color: blue;
+  text-align: center;
+}
+
+tfoot td{
+  font-weight: bold;
+  background-color: cyan;
 }
