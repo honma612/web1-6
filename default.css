@@ -5,6 +5,10 @@
 }
 
 .btn{
+  clear:left;
+}
+
+.btn{
   -webkit-appearance: none;
   -webkit-border-radius: 5;
   margin: 5px;
